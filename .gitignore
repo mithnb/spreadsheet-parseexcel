@@ -8,3 +8,4 @@ Makefile
 *.gz
 *.bak
 *.tdy
+.vscode
